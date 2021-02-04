@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "337451065537",
+    "firebase_url": "https://fir-messaging101-5798e.firebaseio.com",
+    "project_id": "fir-messaging101-5798e",
+    "storage_bucket": "fir-messaging101-5798e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337451065537:android:bc48f4050f8d1d51f03440",
+        "android_client_info": {
+          "package_name": "com.database.firebasemessaging101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337451065537-9k0s30dh18laq9a438ugvvr58d3u6ptf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd9tcE6mXCIoRhpwRsisP3ZwWKDaklaKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337451065537-9k0s30dh18laq9a438ugvvr58d3u6ptf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337451065537:android:c8fd116dc72d79cdf03440",
+        "android_client_info": {
+          "package_name": "com.ebookfrenzy.firebasemessaging101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337451065537-9k0s30dh18laq9a438ugvvr58d3u6ptf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd9tcE6mXCIoRhpwRsisP3ZwWKDaklaKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337451065537-9k0s30dh18laq9a438ugvvr58d3u6ptf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
